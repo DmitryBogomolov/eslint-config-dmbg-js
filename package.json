@@ -1,0 +1,23 @@
+{
+  "name": "eslint-config-dmbg-js",
+  "version": "0.0.1",
+  "description": "Common eslint settings",
+  "main": "index.js",
+  "author": "Dmitry Bogomolov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/DmitryBogomolov/eslint-config-dmbg-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/DmitryBogomolov/eslint-config-dmbg-js/issues"
+  },
+  "homepage": "https://github.com/DmitryBogomolov/eslint-config-dmbg-js",
+  "peerDependencies": {
+    "eslint": ">=8.0.0"
+  },
+  "keywords": [
+    "eslint",
+    "config"
+  ]
+}
